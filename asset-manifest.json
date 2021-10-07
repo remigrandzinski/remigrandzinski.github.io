@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68695e09.chunk.css",
+    "main.js": "/static/js/main.01d45b92.chunk.js",
+    "main.js.map": "/static/js/main.01d45b92.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5d0bef52.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5d0bef52.js.map",
+    "static/js/2.94b4ee1a.chunk.js": "/static/js/2.94b4ee1a.chunk.js",
+    "static/js/2.94b4ee1a.chunk.js.map": "/static/js/2.94b4ee1a.chunk.js.map",
+    "static/js/3.88599ce5.chunk.js": "/static/js/3.88599ce5.chunk.js",
+    "static/js/3.88599ce5.chunk.js.map": "/static/js/3.88599ce5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.68695e09.chunk.css.map": "/static/css/main.68695e09.chunk.css.map",
+    "static/js/2.94b4ee1a.chunk.js.LICENSE.txt": "/static/js/2.94b4ee1a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/CoconPro.d9440b04.otf",
+    "static/media/insta.647f5fb4.svg": "/static/media/insta.647f5fb4.svg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/logo.7be85c8c.svg": "/static/media/logo.7be85c8c.svg",
+    "static/media/render.1844c0bd.png": "/static/media/render.1844c0bd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d0bef52.js",
+    "static/js/2.94b4ee1a.chunk.js",
+    "static/css/main.68695e09.chunk.css",
+    "static/js/main.01d45b92.chunk.js"
+  ]
+}
